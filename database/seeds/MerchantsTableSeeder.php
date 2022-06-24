@@ -8,17 +8,17 @@ use Illuminate\Database\Seeder;
 class MerchantsTableSeeder extends Seeder
 {
     protected $merchants = [
-        ['name' => "Shop Online", 'username' => 'merchant', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "BarLoLo Online", 'username' => 'merchant2', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "MM Online", 'username' => 'merchant3', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "New Online", 'username' => 'merchant4', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "Merchant New", 'username' => 'merchant5', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "Data Online", 'username' => 'merchant6', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "BlaBla Online", 'username' => 'merchant7', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "Okkar Online", 'username' => 'okkar123', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "AKS Online", 'username' => 'aks123', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "SettWai Online", 'username' => 'settwai123', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
-        ['name' => "Nan Nan Online", 'username' => 'nan123', 'password' => '$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm'],
+        ['name' => "Shop Online", 'username' => 'balaalal', 'password' => 'balalal'],
+        ['name' => "BarLoLo Online", 'username' => 'balaalal2', 'password' => 'balalal'],
+        ['name' => "MM Online", 'username' => 'balaalal3', 'password' => 'balalal'],
+        ['name' => "New Online", 'username' => 'balaalal4', 'password' => 'balalal'],
+        ['name' => "Merchant New", 'username' => 'baalaa', 'password' => 'balalal'],
+        ['name' => "Data Online", 'username' => 'asdfasdf', 'password' => 'balalal'],
+        ['name' => "BlaBla Online", 'username' => 'asdfsadf', 'password' => 'balalal'],
+        ['name' => "Okkar Online", 'username' => 'asdfsadf', 'password' => 'balalal'],
+        ['name' => "AKS Online", 'username' => 'asdfasdf', 'password' => 'balalal'],
+        ['name' => "SettWai Online", 'username' => 'asdfasdf', 'password' => 'balalal'],
+        ['name' => "Nan Nan Online", 'username' => 'asdfsadfas', 'password' => 'balalal'],
 
     ];
 

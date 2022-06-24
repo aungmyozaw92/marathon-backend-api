@@ -21,7 +21,7 @@ class StaffsTableSeeder extends Seeder
         Schema::disableForeignKeyConstraints();
         factory(Staff::class)->create([
             'name'             => 'admin',
-            'username'         => 'super_admin',
+            'username'         => 'balala',
             'department_id'    => 1,
             'role_id'         => 1,
             'city_id'         => 64,

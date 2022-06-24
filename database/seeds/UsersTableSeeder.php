@@ -18,8 +18,8 @@ class UsersTableSeeder extends Seeder
         // DB::statement('SET FOREIGN_KEY_CHECKS=1;');
         Schema::disableForeignKeyConstraints();
         factory(User::class)->create([
-            'name' => 'super_admin',
-            'email' => 'sayargyi@marathonmyanmar.com',
+            'name' => 'blalala',
+            'email' => 'balalal',
         ]);
 
         factory(User::class, 5)->create();
